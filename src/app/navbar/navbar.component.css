@@ -1,0 +1,23 @@
+.dropdown-toggle {
+    cursor: pointer;
+}
+
+.dropdown-toggle:hover {
+    color: blue;
+};
+
+.dropdown-item:hover {
+    color:blue;
+}
+
+a.nav-link:hover {
+    color: blue;
+}
+
+li.nav-item.dropdown {
+    color: blue;
+}
+
+a.dropdown-item:hover {
+    color: blue;
+}
